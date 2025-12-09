@@ -1,6 +1,6 @@
 # AI, AIOps & MLOps Workstation Tools
 
-A complete list of tools covering Kubernetes, Cloud Platforms, GitOps, Security, Observability, Artificial Intelligence, AIOps, MLOps, Automation, and Infrastructure Engineering — with official installation URLs.
+Artificial Intelligence, AIOps, MLOps, Automation, and Infrastructure Engineering — with official installation URLs.
 
 ---
 
@@ -65,10 +65,3 @@ A complete list of tools covering Kubernetes, Cloud Platforms, GitOps, Security,
 
 ---
 
-## ✔ All Other DevOps Tools
-
-All Kubernetes, Cloud, Container, GitOps, Observability, Networking, Security, Database, Messaging, Productivity, Secrets, Virtualization, and Testing tools remain the same as listed earlier (over 200+ tools with URLs).
-
----
-
-This file contains the fully expanded AI, AIOps, and MLOps sections requested by the user.
