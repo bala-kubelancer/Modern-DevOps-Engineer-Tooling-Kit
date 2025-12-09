@@ -43,6 +43,15 @@ All detailed documentation is maintained in the GitHub Wiki.
 
 ---
 
+### Tool Categories
+- [Kubernetes Tools](https://github.com/USERNAME/REPO/wiki/Kubernetes-Tools)
+- [Cloud Tools](https://github.com/USERNAME/REPO/wiki/Cloud-Tools)
+- [Container Tools](https://github.com/USERNAME/REPO/wiki/Container-Tools)
+- [CI/CD & GitOps Tools](https://github.com/USERNAME/REPO/wiki/GitOps-Automation-Tools)
+- [Security Tools](https://github.com/USERNAME/REPO/wiki/Security-Tools)
+- [AI Tools](https://github.com/USERNAME/REPO/wiki/AI-Tools)
+- [AIOps Tools](https://github.com/USERNAME/REPO/wiki/AIOps-Tools)
+- [MLOps Tools](https://github.com/USERNAME/REPO/wiki/MLOps-Tools)
 
 # Purpose of This Repository
 
