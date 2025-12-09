@@ -44,14 +44,14 @@ All detailed documentation is maintained in the GitHub Wiki.
 ---
 
 ### Tool Categories
-- [Kubernetes Tools](https://github.com/bala-kubelancer/REPO/wiki/Kubernetes-Tools)
-- [Cloud Tools](https://github.com/bala-kubelancer/REPO/wiki/Cloud-Tools)
-- [Container Tools](https://github.com/bala-kubelancer/REPO/wiki/Container-Tools)
-- [CI/CD & GitOps Tools](https://github.com/bala-kubelancer/REPO/wiki/GitOps-Automation-Tools)
-- [Security Tools](https://github.com/bala-kubelancer/REPO/wiki/Security-Tools)
-- [AI Tools](https://github.com/bala-kubelancer/REPO/wiki/AI-Tools)
-- [AIOps Tools](https://github.com/bala-kubelancer/REPO/wiki/AIOps-Tools)
-- [MLOps Tools](https://github.com/bala-kubelancer/REPO/wiki/MLOps-Tools)
+- [Kubernetes Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/Kubernetes-Tools)
+- [Cloud Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/Cloud-Tools)
+- [Container Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/Container-Tools)
+- [CI/CD & GitOps Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/GitOps-Automation-Tools)
+- [Security Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/Security-Tools)
+- [AI Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/AI-Tools)
+- [AIOps Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/AIOps-Tools)
+- [MLOps Tools](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki/MLOps-Tools)
 
 # Purpose of This Repository
 
