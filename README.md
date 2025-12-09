@@ -1,4 +1,4 @@
-# 🌐 Cloud, DevOps, Kubernetes & AI Engineering Toolkit
+# Cloud, DevOps, Kubernetes & AI Engineering Toolkit
 
 Welcome to the **Cloud + DevOps + Kubernetes + AI Tooling Repository** — a complete reference pack designed for:
 
@@ -14,14 +14,14 @@ This repository provides a **comprehensive, categorized, and up-to-date list of 
 
 ---
 
-# 📚 Documentation (GitHub Wiki)
+# Documentation (GitHub Wiki)
 
 All detailed documentation is maintained in the GitHub Wiki.
 
-👉 **Open the Wiki:**  
+ **Open the Wiki:**  
 [https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki](https://github.com/bala-kubelancer/Modern-DevOps-Engineer-Tooling-Kit/wiki)
 
-# 📦 Contents
+# Contents
 
 - AI Tools for DevOps  
 - AIOps Tools  
@@ -44,7 +44,7 @@ All detailed documentation is maintained in the GitHub Wiki.
 ---
 
 
-# 🎯 Purpose of This Repository
+# Purpose of This Repository
 
 This project exists to:
 
@@ -57,7 +57,7 @@ This project exists to:
 
 ---
 
-# ⚙️ How to Use This Repository
+# How to Use This Repository
 
 1. Open the Wiki  
 2. Choose the category you need  
@@ -67,7 +67,7 @@ This project exists to:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 
@@ -82,7 +82,7 @@ Submit a Pull Request to get started.
 
 ---
 
-# 🧑‍💻 Maintained By
+# Maintained By
 
 **Bala -  Kubelancer – Cloud & DevOps Infrastructure Engineer**  
 *We manage your Cloud and DevOps Infrastructure!*
